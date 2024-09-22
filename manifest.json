@@ -1,8 +1,8 @@
 {
-    "name": "Custom Character[Sisters Kotonoha]",
+    "name": "Custom_Character_Kotonoha_Sisters",
     "version_number": "1.0.0",
     "website_url": "https://github.com/kio-stdioh/gungeon-custom-character-kotonoha",
-    "description": "Adds Sisters Kotonoha(琴葉姉妹), two characters with accurate aim or high rate of fire. (+ Smiley's Revolver and Shades's Revolver custom Skin!)",
+    "description": "Adds Kotonoha Sisters(琴葉姉妹), two characters with accurate aim or high rate of fire.",
     "dependencies": [
         "MtG_API-Mod_the_Gungeon_API-1.8.7",
         "BepInEx-BepInExPack_EtG-5.4.2101",
